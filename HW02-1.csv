@@ -1,0 +1,21 @@
+CourseID,CourseName,CourseCount,TeacherNO,TeacherName,studentID
+J8001,LivingTech(1),23,JHS0109,"Mr. Chen",D00001
+J8001,LivingTech(1),23,JHS0109,"Mr. Chen",D00175
+J8001,LivingTech(1),23,JHS0109,"Mr. Chen",D00090
+J8001,LivingTech(1),23,JHS0109,"Mr. Chen",D00017
+J8001,LivingTech(1),23,JHS0109,"Mr. Chen",D00280
+J8001,LivingTech(1),23,JHS0109,"Mr. Chen",D00299
+J8001,LivingTech(1),23,JHS0109,"Mr. Chen",D00122
+J8002,LivingTech(2),20,JHS0111,"Mr. Wu",D00257
+J8002,LivingTech(2),20,JHS0111,"Mr. Wu",D00052
+J8002,LivingTech(2),20,JHS0111,"Mr. Wu",D00168
+J8002,LivingTech(2),20,JHS0111,"Mr. Wu",D00110
+J8002,LivingTech(2),20,JHS0111,"Mr. Wu",D00043
+J8002,LivingTech(2),20,JHS0111,"Mr. Wu",D00150
+J8003,LivingTech(3),25,JHS01055,"Mrs. Jen",D00120
+J8003,LivingTech(3),25,JHS01055,"Mrs. Jen",D00105
+J8003,LivingTech(3),25,JHS01055,"Mrs. Jen",D00220
+J8003,LivingTech(3),25,JHS01055,"Mrs. Jen",D00193
+J8003,LivingTech(3),25,JHS01055,"Mrs. Jen",D00134
+J8003,LivingTech(3),25,JHS01055,"Mrs. Jen",D00176
+J8003,LivingTech(3),25,JHS01055,"Mrs. Jen",D00078
