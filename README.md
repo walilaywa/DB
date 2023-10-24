@@ -15,3 +15,6 @@
 
 [HW2](https://youtu.be/vziKbGnnm6I)
 HW2 include create/read the table
+
+
+[HW3](https://youtu.be/39ktfiSC0_Q)
